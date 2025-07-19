@@ -1,3 +1,21 @@
+# Demo VIDEO
+https://drive.google.com/drive/folders/15ds735tbVM0DpgPOP-3GUUKuXo_eIaXZ?usp=sharing
+# Demo UI
+<img height="700" alt="Screenshot_2025-07-19-21-39-14-28_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/a04e9992-ea18-461a-a00b-2d05694b3a89" />
+<img height="700" alt="Screenshot_2025-07-19-21-39-18-13_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/e8e8ec94-ac2f-4746-8341-9c90f7498b87" />
+<img height="700" alt="Screenshot_2025-07-19-21-30-10-52_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/61583944-768b-40b6-9e6b-c5c579e70d0c" />
+<img height="700" alt="Screenshot_2025-07-19-21-30-52-29_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/881b2aa7-9f17-4721-a7fc-9f45676f2f71" />
+<img height="700" alt="Screenshot_2025-07-19-21-30-25-87_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/726da6e0-0807-4ba4-9558-337691873eec" />
+<img height="700" alt="Screenshot_2025-07-19-21-30-34-41_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/631728f6-4c44-4fa4-9e22-db9b8dbc9ad7" />
+<img height="700" alt="Screenshot_2025-07-19-21-30-41-72_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/d5f64ae5-1765-4e08-89b0-cda3002fdf14" />
+<img height="700" alt="Screenshot_2025-07-19-21-30-38-92_cdf24ba364cc566ff10049ce7c609abb" src="https://github.com/user-attachments/assets/a6941ad3-e744-4ec3-95e4-9743760bb96d" />
+
+# Technologies used
+### Redux
+### React native paper
+### Native android module(java) for notification
+### Firebase for backend (Notification push)
+ 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
