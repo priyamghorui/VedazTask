@@ -108,7 +108,10 @@ android {
 }
 
 dependencies {
-    // The version of react-native is set by the React Native Gradle Plugin
+     // Import the Firebase BoM (Bill of Materials)
+    implementation platform('com.google.firebase:firebase-bom:33.0.0') // Check for the latest version
+    implementation 'com.google.firebase:firebase-messaging'
+
     implementation("com.facebook.react:react-android")
 
     if (hermesEnabled.toBoolean()) {
@@ -117,3 +120,6 @@ dependencies {
         implementation jscFlavor
     }
 }
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services' 
+apply from: file("../../node_modules/react-native-vector-icons/fonts.gradle")

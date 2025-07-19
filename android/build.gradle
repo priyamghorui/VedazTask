@@ -19,3 +19,21 @@ buildscript {
 }
 
 apply plugin: "com.facebook.react.rootproject"
+buildscript {
+    repositories {
+        google()  // Google's Maven repository
+        mavenCentral()
+    }
+  dependencies {
+    // ... other dependencies
+    classpath 'com.google.gms:google-services:4.4.3'
+    // Add me --- /\
+  }
+}
+allprojects {
+    repositories {
+        google()  // Google's Maven repository
+        mavenCentral()
+        // ... other repositories
+    }
+}
